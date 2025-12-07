@@ -26,6 +26,17 @@ This is a **frontend UI template only** — no backend or authentication logic i
 
 ---
 
+
+---
+
+## 🔗 Full UI Kit Download
+
+You can get the full React Auth UI Kit (with ZIP, screenshots and usage guide) here:
+
+👉 [Download the full kit on Gumroad](varaprasad2.gumroad.com/l/xcxut)
+
+
+
 ## 🚀 Getting Started
 
 ### 1. Install dependencies
